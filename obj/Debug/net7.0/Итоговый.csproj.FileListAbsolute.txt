@@ -1,0 +1,15 @@
+C:\Users\Ильнара\Desktop\Итоговый\bin\Debug\net7.0\Итоговый.exe
+C:\Users\Ильнара\Desktop\Итоговый\bin\Debug\net7.0\Итоговый.deps.json
+C:\Users\Ильнара\Desktop\Итоговый\bin\Debug\net7.0\Итоговый.runtimeconfig.json
+C:\Users\Ильнара\Desktop\Итоговый\bin\Debug\net7.0\Итоговый.dll
+C:\Users\Ильнара\Desktop\Итоговый\bin\Debug\net7.0\Итоговый.pdb
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.csproj.AssemblyReference.cache
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.AssemblyInfoInputs.cache
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.AssemblyInfo.cs
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.csproj.CoreCompileInputs.cache
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.dll
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\refint\Итоговый.dll
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.pdb
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\Итоговый.genruntimeconfig.cache
+C:\Users\Ильнара\Desktop\Итоговый\obj\Debug\net7.0\ref\Итоговый.dll
